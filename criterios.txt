@@ -1,0 +1,32 @@
+    Plano de testes - IMC
+
+Projeto: [nome do projeto]
+
+Objetivo: [Descreva o objetivo do plano de testes]
+
+- Escopo: [O que esse plano de testes abrangerá]
+
+→ Testar layout e  design responsivo
+
+→ Navegação e interação do usuário
+
+→ Funcionalidades específicas do front-end
+
+- Estratégias de Teste: [Tipos de teste] (Teste de usabilidade)
+- Recursos de Teste: [Equipe de teste, ambiente, ferramentas, documentação]
+- Plano de teste:
+1. Teste de Design:
+
+a. Responsável: [nome]
+
+b. Descrição: [O que irá testar]
+
+c. Critérios de aceitação: [Definir critérios de mínimos para passar no teste]
+
+1. Teste de funcionalidade:
+
+a. Responsável:
+
+b. Descrição:
+
+c. Critérios de aceitação:
